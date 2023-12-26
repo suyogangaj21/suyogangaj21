@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🌱 I’m currently learning Next.js,Superbase<br>💬 Enjoy solving dsa problems sometimes<br>⚡ Connect with on:[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ suyog-angaj-917808202/) 
+<br>🌱 I’m currently learning Next.js,Superbase<br>💬 Enjoy solving dsa problems sometimes<br>⚡ Connect with on:[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/suyog-angaj-917808202)
 
 
 
