@@ -1,7 +1,7 @@
 # 💫 About Me:
-<br>🌱 I’m currently learning Next.js,Superbase<br>💬 Enjoy solving dsa problems sometimes<br>⚡ Connect with on:<p align="left">
-<a href="https://linkedin.com/in/suyog-angaj-917808202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suyog-angaj-917808202/" height="30" width="40" /></a>
-</p>
+<br>🌱 I’m currently learning Next.js,Superbase<br>💬 Enjoy solving dsa problems sometimes<br>⚡ Connect with on:[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ suyog-angaj-917808202/) 
+
+
 
 
 # 💻 Tech Stack:
